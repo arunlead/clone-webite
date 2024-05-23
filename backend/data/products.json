@@ -1,0 +1,207 @@
+[{
+    "name":"oppo 5G",
+    "price":245.67,
+    "description":"oppo brand is ultimate",
+    "ratings":4.5,
+    "images":[
+        {
+            "image":"/images/products/1.jpg"
+        },
+        {
+            "image":"/image/products/2.jpg"
+        }
+    
+    ],
+    "category":"mobile phones",
+    "seller":"amazon",
+    "stock":5
+},
+{
+    "name":"vivo 5G",
+    "price":24.67,
+    "description":"vivo brand is ultimate",
+    "ratings":3.5,
+    "images":[
+        {
+            "image":"/images/products/10.jpeg"
+        },
+        {
+            "image":"/image/products/2.jpg"
+        }
+    
+    ],
+    "category":"mobile phones",
+    "seller":"amazon",
+    "stock":3
+},
+{
+    "name": "Samsung Galaxy S20",
+    "price": 799.99,
+    "description": "The Samsung Galaxy S20 is a flagship smartphone with top-notch features.",
+    "ratings": 4.7,
+    "images": [
+        { "image": "/images/products/2.jpg" },
+        { "image": "/images/products/2.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Samsung",
+    "stock": 10
+},
+{
+    "name": "Apple MacBook Pro",
+    "price": 1299.99,
+    "description": "The Apple MacBook Pro is a powerful laptop for professionals.",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/3.jpg" },
+        { "image": "/images/products/3.jpg" }
+    ],
+    "category": "Laptops",
+    "seller": "Apple",
+    "stock": 15
+},
+{
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "description": "The Sony PlayStation 5 is the latest gaming console with cutting-edge technology.",
+    "ratings": 4.9,
+    "images": [
+        { "image": "/images/products/4.jpg" },
+        { "image": "/images/products/4.jpg" }
+    ],
+    "category": "Gaming Consoles",
+    "seller": "Sony",
+    "stock": 20
+},
+{
+    "name": "Canon EOS R5",
+    "price": 3899.99,
+    "description": "The Canon EOS R5 is a high-end mirrorless camera for professional photographers.",
+    "ratings": 4.6,
+    "images": [
+        { "image": "/images/products/5.jpg" },
+        { "image": "/images/products/5.jpg" }
+    ],
+    "category": "Cameras",
+    "seller": "Canon",
+    "stock": 8
+},
+{
+    "name": "Dell UltraSharp U2720Q",
+    "price": 599.99,
+    "description": "The Dell UltraSharp U2720Q is a 27-inch 4K monitor for color-critical work.",
+    "ratings": 4.7,
+    "images": [
+        { "image": "/images/products/6.jpg" },
+        { "image": "/images/products/6.jpg" }
+    ],
+    "category": "Monitors",
+    "seller": "Dell",
+    "stock": 12
+},
+{
+    "name": "Nike Air Zoom Pegasus 37",
+    "price": 119.99,
+    "description": "The Nike Air Zoom Pegasus 37 is a versatile running shoe with responsive cushioning.",
+    "ratings": 4.5,
+    "images": [
+        { "image": "/images/products/7.jpg" },
+        { "image": "/images/products/7.jpg" }
+    ],
+    "category": "Shoes",
+    "seller": "Nike",
+    "stock": 25
+},
+{
+    "name": "Samsung Q90T QLED TV",
+    "price": 1999.99,
+    "description": "The Samsung Q90T QLED TV offers stunning picture quality with vibrant colors.",
+    "ratings": 4.9,
+    "images": [
+        { "image": "/images/products/tv.jpeg" },
+        { "image": "/images/products/tv.jpeg" }
+    ],
+    "category": "Televisions",
+    "seller": "Samsung",
+    "stock": 6
+},
+{
+    "name": "Bose QuietComfort 35 II",
+    "price": 299.99,
+    "description": "The Bose QuietComfort 35 II is a top-rated wireless noise-canceling headphone.",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/9.jpg" },
+        { "image": "/images/products/qc35ii-2.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 18
+},
+{
+    "name": "Vivo S33y",
+    "price": 299.99,
+    "description": "This is a sleek and slim smartphone featuring a 2.5D flat frame on an 8 mm thin body. Also, it is a lightweight smartphone that you can carry around comfortably..",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/vivo1.jpg" },
+        { "image": "/images/products/qc35ii-2.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 18
+},
+{
+    "name": "Vivo 22Y",
+    "price": 299.99,
+    "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer.",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/vivo2.jpg" },
+        { "image": "/images/products/qc35ii-2.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 18
+},
+{
+    "name": "Vivo T20",
+    "price": 299.99,
+    "description": "Armor aluminum frame with tougher drop and scratch resistance (advertised).",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/vivo3.jpg" },
+        { "image": "/images/products/qc35ii-2.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 18
+},
+{
+    "name": "Boat Air Pods II",
+    "price": 129.99,
+    "description": "The Boat Air Pods is a top-rated wireless noise-canceling headphone.",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/air.jpg" },
+        { "image": "/images/products/qc35ii-2.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 18
+},
+{
+    "name": "Rockerz 518 II",
+    "price": 199.99,
+    "description": "The Boat Rockerz 518 II is a top-rated wireless noise-canceling headphone.",
+    "ratings": 4.8,
+    "images": [
+        { "image": "/images/products/9.jpg" },
+        { "image": "/images/products/air1.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 18
+}
+
+]
