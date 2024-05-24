@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postinstall": "if not defined REACT_APP_API_URL set REACT_APP_API_URL=http://localhost:8000/api/v1 && npx react-scripts build",
+    "postinstall": "cross-env REACT_APP_API_URL=http://localhost:8000/api/v1 npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
