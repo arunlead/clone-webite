@@ -6,6 +6,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "postinstall": "if not defined REACT_APP_API_URL set REACT_APP_API_URL=http://localhost:8000/api/v1 && npx react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -18,11 +19,9 @@
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "gh-pages": "^6.1.1"
   },
   "author": "Your Name",
   "license": "ISC"
 }
-
-
-
